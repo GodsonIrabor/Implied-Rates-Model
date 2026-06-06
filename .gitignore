@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Data Cache (prevents accidentally pushing your local FRED data snapshots)
+data/treasury_curve_cache.csv
+
+# IDE Configurations
+.idea/
+.vscode/
+.DS_Store
+
+#Local Research & Drafts
+notebooks/
