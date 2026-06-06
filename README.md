@@ -1,6 +1,6 @@
 # Implied Rates Model: Forward Rate & Carry Analysis
 
-![Model Exhibit](exhibits/model_exhibit.png)
+![Model Exhibit](exhibits/model.exhibit.png)
 
 A quantitative finance framework designed to identify structural mispricing across maturity sectors and evaluate duration-neutral investment strategies (Barbell vs. Bullet). This engine implements forward rate analysis to calculate yield cushions and breakeven hurdles, assisting in tactical allocation decisions.
 
