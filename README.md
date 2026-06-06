@@ -1,4 +1,4 @@
-# Yield Curve RV Engine: Forward Rate & Carry Analysis
+# Implied Rates Model: Forward Rate & Carry Analysis
 
 ![Model Exhibit](exhibits/model_exhibit.png)
 
